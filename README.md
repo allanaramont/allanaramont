@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Allan%20Monteiro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Developer%20%7C%20Full-Stack%20JS/TS&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:7B2FBE,100:A855F7&height=200&section=header&text=Allan%20Monteiro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Developer%20%7C%20Full-Stack%20JS/TS&descAlignY=55&descSize=18"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+DesenvBR+Ecosystem+%F0%9F%8C%90;Turning+ideas+into+scalable+products+%F0%9F%9A%80;Clean+code+%7C+Great+UX+%7C+Real+impact+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+DesenvBR+Ecosystem+%F0%9F%8C%90;Turning+ideas+into+scalable+products+%F0%9F%9A%80;Clean+code+%7C+Great+UX+%7C+Real+impact+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-Allan%20Monteiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanaramont/)
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8)](mailto:allan@desenvbr.com)
-[![Portfolio](https://img.shields.io/badge/-desenvbr.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00b4d8)](https://desenvbr.com)
+[![LinkedIn](https://img.shields.io/badge/-Allan%20Monteiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanaramont/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allan@desenvbr.com)
+[![Portfolio](https://img.shields.io/badge/-desenvbr.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://desenvbr.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=allanaramont&color=00b4d8&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=allanaramont&color=A855F7&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -29,6 +29,11 @@ const allan = {
   workStyle: "Remote 🌎",
   focus: "Full-Stack JavaScript/TypeScript",
   building: "DesenvBR Ecosystem",
+  education: [
+    "Pós-graduação em Aplicações Móveis",
+    "Bacharel em Ciência da Computação",
+    "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+  ],
   motto: "Ship fast, ship well."
 };
 ```
@@ -42,28 +47,35 @@ I build products from zero to production — web, mobile, APIs. Currently focuse
 <div align="center">
 
 #### Frontend
-![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Vite](https://img.shields.io/badge/-Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=0d1117)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 #### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![NestJS](https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Prisma](https://img.shields.io/badge/-Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 #### Mobile
-![React Native](https://img.shields.io/badge/-React%20Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=0d1117)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### Database
-![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### AI
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/-Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 #### Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -75,73 +87,13 @@ I build products from zero to production — web, mobile, APIs. Currently focuse
 
 > *Acesse todos os nossos produtos e serviços em um só lugar*
 
+<br/>
+
+[![DesenvBR Ecosystem](https://img.shields.io/badge/-🌐%20Conhecer%20o%20Ecossistema%20DesenvBR-7B2FBE?style=for-the-badge&logoColor=white)](https://desenvbr.com)
+
 </div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🏢 DesenvBR
-**Portal do grupo**<br/>
-Site institucional e hub centralizado de todos os serviços do ecossistema.
-
-[![Website](https://img.shields.io/badge/-desenvbr.com-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://desenvbr.com)
-
-</td>
-<td align="center" width="50%">
-
-### 💪 IntelliFitClub
-**Fitness & Bem-estar**<br/>
-Plataforma completa para saúde, exercícios e acompanhamento fitness.
-
-[![Website](https://img.shields.io/badge/-intellifitclub.com-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://intellifitclub.com)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🎲 Rola Aí
-**Dado 3D interativo**<br/>
-Animações 3D suaves, múltiplos dados, sons, temas e monetização integrada.
-
-[![Website](https://img.shields.io/badge/-rolaai.desenvbr.com-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rolaai.desenvbr.com)
-
-</td>
-<td align="center" width="50%">
-
-### ⭕ Loop Na Velha
-**Jogo da velha infinito**<br/>
-Mecânica inovadora de gameplay com loop infinito.
-
-[![Website](https://img.shields.io/badge/-loopnavelha.desenvbr.com-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loopnavelha.desenvbr.com)
-
-</td>
-</tr>
-</table>
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=allanaramont&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&ring_color=00b4d8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=allanaramont&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=586069" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaramont&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=allanaramont&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <!-- SNAKE CONTRIBUTION GRAPH -->
 <div align="center">
@@ -152,15 +104,13 @@ Mecânica inovadora de gameplay com loop infinito.
   </picture>
 </div>
 
-> **Snake animation setup:** Create a GitHub Action in `allanaramont/allanaramont` using [Platane/snk](https://github.com/Platane/snk).
-
 ---
 
 ## Currently Building
 
 - 🌐 Expanding the **DesenvBR Group** ecosystem
-- 📱 New features for **IntelliFitClub** and **Rola Aí**
-- 🧪 Exploring **AI-driven features** across products
+- 📱 New features across the product suite
+- 🧪 Exploring **AI-driven features** in production
 
 ## Learning Journey
 
@@ -181,14 +131,14 @@ Mecânica inovadora de gameplay com loop infinito.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/allanaramont/)
-[![Website](https://img.shields.io/badge/-Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00b4d8)](https://desenvbr.com)
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:allan@desenvbr.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanaramont/)
+[![Website](https://img.shields.io/badge/-desenvbr.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://desenvbr.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allan@desenvbr.com)
 
 <br/>
 
-**Open for collaborations, freelance projects, and good conversations.**
+**Open for collaborations, networking, and good conversations.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:7B2FBE,100:A855F7&height=120&section=footer"/>
 
 </div>
