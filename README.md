@@ -10,9 +10,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-Allan%20Monteiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanaramont/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanaramont/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allan@desenvbr.com)
-[![Portfolio](https://img.shields.io/badge/-desenvbr.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://desenvbr.com)
+[![Portfolio](https://img.shields.io/badge/-desenvbr.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=FBBC04)](https://desenvbr.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=allanaramont&color=A855F7&style=flat-square&label=Profile+Views)
 
