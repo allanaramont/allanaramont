@@ -11,8 +11,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanaramont/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allan@desenvbr.com)
-[![Portfolio](https://img.shields.io/badge/Site-00DF9A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hub.desenvbr.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanmoto@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Site-00DF9A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allan.desenvbr.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=allanaramont&color=A855F7&style=flat-square&label=Profile+Views)
 
@@ -132,8 +132,8 @@ I build products from zero to production — web, mobile, APIs. Currently focuse
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanaramont/)
-[![Website](https://img.shields.io/badge/Site-00DF9A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hub.desenvbr.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allan@desenvbr.com)
+[![Website](https://img.shields.io/badge/Site-00DF9A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allan.desenvbr.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanmoto@gmail.com)
 
 <br/>
 
