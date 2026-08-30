@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:7B2FBE,100:A855F7&height=200&section=header&text=Allan%20Monteiro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Developer%20%7C%20Full-Stack%20JS/TS&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:7B2FBE,100:A855F7&height=200&section=header&text=Allan%20Monteiro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20Engineer%20%7C%20Full-Stack%20%C2%B7%20Architecture%20%C2%B7%20AI%20Workflows&descAlignY=55&descSize=18"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+DesenvBR+Ecosystem+%F0%9F%8C%90;Turning+ideas+into+scalable+products+%F0%9F%9A%80;Clean+code+%7C+Great+UX+%7C+Real+impact+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Lead+Engineer+%7C+Full-Stack+%C2%B7+Architecture+%C2%B7+AI;Building+systems+for+millions+of+users;AI-driven+delivery+%C2%B7+Remote+from+Brazil+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
