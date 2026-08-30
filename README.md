@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Lead+Engineer+%7C+Full-Stack+%C2%B7+Architecture+%C2%B7+AI;Building+systems+for+millions+of+users;AI-driven+delivery+%C2%B7+Remote+from+Brazil+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=51ff00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Lead+Engineer+%7C+Full-Stack+%C2%B7+Architecture+%C2%B7+AI;Building+systems+for+millions+of+users;AI-driven+delivery+%C2%B7+Remote+from+Brazil+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanmoto@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Site-00DF9A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allan.desenvbr.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=allanaramont&color=A855F7&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=allanaramont&color=51ff00&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -133,6 +133,6 @@ Lead Engineer with 8+ years building production systems used by millions. I inte
 
 **Open for collaborations, networking, and good conversations.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:7B2FBE,100:A855F7&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:7B2FBE,100:51ff00&height=120&section=footer"/>
 
 </div>
