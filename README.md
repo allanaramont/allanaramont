@@ -83,7 +83,7 @@ Lead Engineer with 8+ years building production systems used by millions. I inte
 
 <br/>
 
-[![DesenvBR Ecosystem](https://img.shields.io/badge/-🌐%20Conhecer%20o%20Ecossistema%20DesenvBR-7B2FBE?style=for-the-badge&logoColor=white)](https://desenvbr.com)
+[![DesenvBR Ecosystem](https://img.shields.io/badge/-🌐%20Conhecer%20o%20Ecossistema%20DesenvBR-51ff00?style=for-the-badge&logoColor=white)](https://desenvbr.com)
 
 </div>
 
@@ -133,6 +133,6 @@ Lead Engineer with 8+ years building production systems used by millions. I inte
 
 **Open for collaborations, networking, and good conversations.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:7B2FBE,100:51ff00&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:122c2f,60:51ff00,100:51ff00&height=120&section=footer"/>
 
 </div>
