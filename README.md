@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanaramont/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanmoto@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Site-00DF9A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allan.desenvbr.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@allanaramont)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=allanaramont&color=51ff00&style=flat-square&label=Profile+Views)
 
