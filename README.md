@@ -25,20 +25,18 @@
 ```typescript
 const allan = {
   location: "Curitiba, Brazil 🇧🇷",
-  role: "Senior Software Developer",
-  workStyle: "Remote 🌎",
-  focus: "Full-Stack JavaScript/TypeScript",
+    role: "Lead Engineer | Full-Stack",
+    workStyle: "Remote 🌎",
+        focus: "Full-Stack · Architecture · AI Workflows",
   building: "DesenvBR Ecosystem",
-  education: [
-    "Pós-graduação em Aplicações Móveis",
     "Bacharel em Ciência da Computação",
+        "Pós-graduação em Arquitetura de Software",
     "Tecnólogo em Análise e Desenvolvimento de Sistemas",
   ],
   motto: "Ship fast, ship well."
 };
 ```
-
-I build products from zero to production — web, mobile, APIs. Currently focused on growing the **DesenvBR Group** ecosystem, a suite of apps and services that solve real problems with clean, modern tech.
+Lead Engineer with 8+ years building production systems used by millions. I integrate AI into my delivery workflow — every feature comes with tests and automated auditing built in. Based in Brazil (UTC-3) · async · open to remote.
 
 ---
 
@@ -56,10 +54,6 @@ I build products from zero to production — web, mobile, APIs. Currently focuse
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-#### Mobile
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=0d1117)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
