@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=51ff00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Lead+Engineer+%7C+Full-Stack+%C2%B7+Architecture+%C2%B7+AI;Building+systems+for+millions+of+users;AI-driven+delivery+%C2%B7+Remote+from+Brazil+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=51ff00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Lead+Engineer+%7C+Full-Stack+%C2%B7+Architecture+%C2%B7+AI;Building+systems+for+millions+of+users;AI-driven+delivery+%C2%B7+Remote+from+Brazil+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,8 +30,9 @@ const allan = {
     workStyle: "Remote 🌎",
         focus: "Full-Stack · Architecture · AI Workflows",
   building: "DesenvBR Ecosystem",
+  education: [
     "Bacharel em Ciência da Computação",
-        "Pós-graduação em Arquitetura de Software",
+    "Pós-graduação em Arquitetura de Software",
     "Tecnólogo em Análise e Desenvolvimento de Sistemas",
   ],
   motto: "Ship fast, ship well."
@@ -129,6 +130,7 @@ Lead Engineer with 8+ years building production systems used by millions. I inte
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanaramont/)
 [![Website](https://img.shields.io/badge/Site-00DF9A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allan.desenvbr.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanmoto@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@allanaramont)
 
 <br/>
 
