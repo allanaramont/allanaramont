@@ -31,9 +31,9 @@ const allan = {
         focus: "Full-Stack · Architecture · AI Workflows",
   building: "DesenvBR Ecosystem",
   education: [
-    "Bacharel em Ciência da Computação",
-    "Pós-graduação em Arquitetura de Software",
-    "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+    "Bachelor's in Computer Science",
+    "Postgraduate in Software Architecture",
+    "Technologist in Systems Analysis & Development",
   ],
   motto: "Ship fast, ship well."
 };
