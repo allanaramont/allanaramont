@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:122c2f,60:206469,100:51ff00&height=200&section=header&text=Allan%20Monteiro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20Engineer%20%7C%20Full-Stack%20%C2%B7%20Architecture%20%C2%B7%20AI%20Workflows&descAlignY=55&descSize=18"/>
+<img width="100%" src="cover.png" alt="Allan Monteiro — Lead Engineer"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
